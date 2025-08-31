@@ -23,4 +23,4 @@ It allows you to create, open, and save text files with a basic GUI.
 ## 💻 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MeghPatel-007/text-editor.git
+   git clone https://github.com/MeghPatel-007/Text-Editor.git
